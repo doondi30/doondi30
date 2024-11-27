@@ -57,7 +57,9 @@
    </a> 
  【STATS】 
 </h3>
-<img src="https://github-readme-stats.vercel.app/api?username=doondigangadhar30&&show_icons=true&count_private=true&theme=github_dark"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=doondigangadhar30&theme=blueberry_duo"/> 
+
+| <img src="https://github-readme-stats.vercel.app/api?username=doondigangadhar30&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=doondigangadhar30&theme=blueberry_duo"/> |
+| --- | ---- |
 
 <!-- Adding Github Stats and Streak Stats -->
 
