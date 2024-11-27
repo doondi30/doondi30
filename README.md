@@ -68,14 +68,11 @@
 
 <table width="100%" align="center">
 <tr>
- <td>
-  <img width="350em" src="http://github-readme-stats.vercel.app/api/top-langs?username=doondigangadhar30&show_icons=true&count_private=true&theme=github_dark" alt="Readme Stat"/>
-</td>
 <td><p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=doondigangadhar30&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  /></p>
-
 </td>
 </tr>
 </table>
+
 <br>
 </a>
 </p>
@@ -103,7 +100,7 @@
 
 ## 🐱‍💻 Hacktober badges:
 
-[![@shamith_watchdogs's Holopin board](https://holopin.me/doondigangadhar30) ](https://holopin.io/@doondigangadhar30) 
+[![@doondigangadhar30's Holopin board](https://holopin.me/doondigangadhar30) ](https://holopin.io/@doondigangadhar30) 
 
 <!--SNAKE-->
 <p align="center">
