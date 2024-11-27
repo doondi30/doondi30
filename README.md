@@ -69,10 +69,10 @@
 <table width="100%" align="center">
 <tr>
  <td>
-  <img width="350em" src="http://github-readme-stats.vercel.app/api/top-langs?username=doondigangadhar30&show_icons=true&locale=en&layout=compact&theme=blue" alt="Readme Stat"/>
+  <img width="350em" src="http://github-readme-stats.vercel.app/api/top-langs?username=doondigangadhar30&show_icons=true&count_private=true&theme=github_dark" alt="Readme Stat"/>
 </td>
 <td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doondigangadhar30" alt="Profile Summary">
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doondigangadhar30&show_icons=true&count_private=true&theme=github_dark" alt="Profile Summary">
 </td>
 </tr>
 </table>
