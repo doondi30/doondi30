@@ -1,4 +1,5 @@
-<h2 align=center>👋 Good to have you here!!</h2>
+
+<h2 align=left>🙏 Namasthey everyone!<img src="https://komarev.com/ghpvc/?username=doondigangadhar30&color=brightgreen" alt="" align="right" /></h2>
 
 I am **R Doondi Gangadhar**, currently pursuing my B Tech degree in Computer Science from [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website"), Visakhapatanam.
 
