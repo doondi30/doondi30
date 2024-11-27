@@ -71,8 +71,8 @@
  <td>
   <img width="350em" src="http://github-readme-stats.vercel.app/api/top-langs?username=doondigangadhar30&show_icons=true&count_private=true&theme=github_dark" alt="Readme Stat"/>
 </td>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doondigangadhar30&show_icons=true&count_private=true&theme=github_dark" alt="Profile Summary">
+<td><p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=doondigangadhar30&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  /></p>
+
 </td>
 </tr>
 </table>
