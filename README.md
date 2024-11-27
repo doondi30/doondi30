@@ -1,18 +1,19 @@
-# Hi there <img src="Assets/Hi.gif" width="29">, I'm Doondi <img src="https://komarev.com/ghpvc/?username=doondigangadhar30&color=brightgreen" alt="" align="right"/>
+<h2 align=center>👋 Good to have you here!!</h2>
 
-**I am currently pursuing my B Tech degree in Computer Science from [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website"), Visakhapatanam**
+I am **R Doondi Gangadhar**, currently pursuing my B Tech degree in Computer Science from [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website"), Visakhapatanam.
 
-* ✉️ You can contact me at [doondigangadhar30@gmail.com](mailto:doondigangadhar30@gmail.com)
-* 🌱 I’m currently focusing **DSA in Python, Javascript, React.js.**
-* 🤩 I'm down into projects and collaborations.
-* 🤝 I’m **learning & exploring new technologies.**
-  
+🌱 I’m currently focusing DSA in Python, Javascript, React.js.  <br>
+🤩 I'm down into projects and collaborations.  <br>
+🤝 I’m learning & exploring new technologies.
+
+[![Gmail Badge](https://img.shields.io/badge/-doondigangadhar30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doondigangadhar30@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
+
 <!--Connect Section Start-->
 ## 🌐 Connect with me though:
 
-<p align="left">
-<a href="https://linkedin.com/in/doondi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doondigangadhar" height="25" width="30" /></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-DoondiGangadhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doondi/)](https://www.linkedin.com/in/riti2409/)
+
+
 <!--Connect Section End-->
 <!--Intro Section End-->
 
