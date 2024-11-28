@@ -1,16 +1,18 @@
 
-<h2 align=left>🙏 Namasthey everyone!<img src="https://komarev.com/ghpvc/?username=doondigangadhar30&color=brightgreen" alt="" align="right" /></h2>
+<h2 align=left>🙏 Namasthey everyone, I'm Doondi <img src="https://komarev.com/ghpvc/?username=doondigangadhar30&color=brightgreen" alt="githubProfile" align="right" height = 33px ></h2>
+<img align="right" alt="coding" src="https://res.cloudinary.com/djh5qkdfk/image/upload/v1732792351/Untitled_design_1_1_lvgsr8.gif" style="width:200px; height:auto;">
 
-I am **R Doondi Gangadhar**, currently pursuing my B Tech degree in Computer Science from [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website"), Visakhapatanam.
+I'm currently pursuing Computer Science from [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website").
+
+
 
 🌱 I’m currently focusing DSA in Python, Javascript, React.js.  <br>
 🤩 I'm down into projects and collaborations.  <br>
 🤝 I’m learning & exploring new technologies.
 
-[![Gmail Badge](https://img.shields.io/badge/-doondigangadhar30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doondigangadhar30@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
-
 <!--Connect Section Start-->
-## 🌐 Connect with me though:
+
+[![Gmail Badge](https://img.shields.io/badge/-doondigangadhar30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doondigangadhar30@gmail.com)](mailto:ritikumariupadhyay24@gmail.com) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-DoondiGangadhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doondi/)](https://www.linkedin.com/in/riti2409/)
 
@@ -60,11 +62,14 @@ I am **R Doondi Gangadhar**, currently pursuing my B Tech degree in Computer Sci
  【STATS】 
 </h3>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=doondigangadhar30&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=doondigangadhar30&theme=blueberry_duo"/> |
-| --- | ---- |
+<a href="https://github.com/doondigangadhar30">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
 
 <!-- Adding Github Stats and Streak Stats -->
 
+| <img src="https://github-readme-stats.vercel.app/api?username=doondigangadhar30&theme=nightowl"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=doondigangadhar30&theme=nightowl"/> |
+| --- | ---- |
 
 <!-- Adding Readme Stats and Profile Summary -->
 
@@ -100,7 +105,7 @@ I am **R Doondi Gangadhar**, currently pursuing my B Tech degree in Computer Sci
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
-## 🐱‍💻 Hacktober badges:
+## 🐱‍💻 HOLOPIN BADGES:
 
 [![@doondigangadhar30's Holopin board](https://holopin.me/doondigangadhar30) ](https://holopin.io/@doondigangadhar30) 
 
