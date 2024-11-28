@@ -12,9 +12,9 @@ I'm currently pursuing Computer Science from [Raghu Engineering College](https:/
 
 <!--Connect Section Start-->
 
-[![Gmail Badge](https://img.shields.io/badge/-doondigangadhar30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doondigangadhar30@gmail.com)](mailto:ritikumariupadhyay24@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-doondigangadhar30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doondigangadhar30@gmail.com)](mailto:doondigangadhar30@gmail.com) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-DoondiGangadhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doondi/)](https://www.linkedin.com/in/riti2409/)
+[![Linkedin Badge](https://img.shields.io/badge/-DoondiGangadhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doondi/)](https://www.linkedin.com/in/doondi/)
 
 
 <!--Connect Section End-->
@@ -72,15 +72,6 @@ I'm currently pursuing Computer Science from [Raghu Engineering College](https:/
 | --- | ---- |
 
 <!-- Adding Readme Stats and Profile Summary -->
-
-<table width="100%" align="center">
-<tr>
-<td><p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=doondigangadhar30&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  /></p>
-</td>
-</tr>
-</table>
-
-<br>
 </a>
 </p>
 
@@ -104,6 +95,13 @@ I'm currently pursuing Computer Science from [Raghu Engineering College](https:/
 <a href="https://github.com/doondigangadhar30">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
+
+<table width="100%" align="center">
+<tr>
+<td><p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=doondigangadhar30&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  /></p>
+</td>
+</tr>
+</table>
 
 ## 🐱‍💻 HOLOPIN BADGES:
 
