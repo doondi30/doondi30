@@ -1,5 +1,5 @@
 
-<h2 align=left>🙏 Namasthey everyone, I'm Doondi <img src="https://komarev.com/ghpvc/?username=doondigangadhar30&color=brightgreen" alt="githubProfile" align="right" height = 33px ></h2>
+<h2 align=left>🙏 Namasthey everyone, I'm Doondi <img src="https://komarev.com/ghpvc/?username=doondigangadhar30&color=brightgreen" alt="githubProfile" align="right" height = 28px ></h2>
 <img align="right" alt="coding" src="https://res.cloudinary.com/djh5qkdfk/image/upload/v1732792351/Untitled_design_1_1_lvgsr8.gif" style="width:200px; height:auto;">
 
 I'm currently pursuing Computer Science from [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website").
