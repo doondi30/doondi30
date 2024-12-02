@@ -107,16 +107,14 @@ I'm currently pursuing Computer Science from [Raghu Engineering College](https:/
 
 [![@doondigangadhar30's Holopin board](https://holopin.me/doondigangadhar30) ](https://holopin.io/@doondigangadhar30) 
 
-<!--SNAKE-->
-<p align="center">
-<a href="https://github.com/doondigangadhar30">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/DatlaRakeshVarma/DatlaRakeshVarma/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+<!--Gif Section-->
+
+<a href="[https://github.com/doondigangadhar30](https://github.com/doondigangadhar30/ApexPlanetTask5)">
+   <img alt="github-snake" src="README/CopyofgifB1-ezgif.com-crop.gif" title = "Click here to visit Duck Hunt Game Repo" />
 </a>
-</p>
-</details>
 
 <br>
-<!--Contributions Section End -->
+<!--Gif Section End -->
  
 <!-- Footer Section-->
 ### sʜᴏᴡ sᴏᴍᴇ 💙 ʙʏ sᴛᴀʀʀɪɴɢ ⭐ sᴏᴍᴇ ᴏғ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs!
