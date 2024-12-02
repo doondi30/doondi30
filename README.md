@@ -109,7 +109,7 @@ I'm currently pursuing Computer Science from [Raghu Engineering College](https:/
 
 <!--Gif Section-->
 
-<a href="[https://github.com/doondigangadhar30](https://github.com/doondigangadhar30/ApexPlanetTask5)">
+<a href="https://github.com/doondigangadhar30/ApexPlanetTask5">
    <img alt="github-snake" src="README/CopyofgifB1-ezgif.com-crop.gif" title = "Click here to visit Duck Hunt Game Repo" />
 </a>
 
