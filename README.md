@@ -1,23 +1,58 @@
-
-<h2 align=left>🙏 Namasthey everyone, I'm Doondi <img src="https://komarev.com/ghpvc/?username=doondigangadhar30&color=brightgreen" alt="githubProfile" align="right" height = 28px ></h2>
-<img align="right" alt="coding" src="https://res.cloudinary.com/djh5qkdfk/image/upload/v1732792351/Untitled_design_1_1_lvgsr8.gif" style="width:200px; height:auto;">
-
-I'm currently pursuing Computer Science from [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website").
+<a href="https://komarev.com/ghpvc/?username=doondigangadhar30">
+  <img align="right" src="https://komarev.com/ghpvc/?username=doondigangadhar30&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-🌱 I’m currently focusing DSA in Python, Javascript, React.js.  <br>
-🤩 I'm down into projects and collaborations.  <br>
-🤝 I’m learning & exploring new technologies.
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; 🙏 Namasthey everyone, I'm
+                <b><a target="_blank" href="https://doondi gangadhar.com">Doondi</a></b>
+        </samp>
+</h3>
 
-<!--Connect Section Start-->
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=doondi+gangadhar">「 Google Me 」</a>
+    <br>
+    「 I am a MERN stack web application developer from <b>India</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
-[![Gmail Badge](https://img.shields.io/badge/-doondigangadhar30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doondigangadhar30@gmail.com)](mailto:doondigangadhar30@gmail.com) 
+<p align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-DoondiGangadhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doondi/)](https://www.linkedin.com/in/doondi/)
+<!--Linkedin -->
+<a href="https://linkedin.com/in/doondi" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="doondi"/>
+ </a>
+ 
+  <!-- Gmail Link -->
+ <a href="mailto:doondigangadhar30@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 
+  <!-- Credly Link -->
+  <a href="https://www.credly.com/users/routhu-doondi-gangadhar" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-1DA1F2?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+  
+</p>
+<br />
+<p>
+ 
+  <img align="right" alt="coding" src="https://res.cloudinary.com/djh5qkdfk/image/upload/v1732792351/Untitled_design_1_1_lvgsr8.gif" style="width:200px; height:auto;">
 
-<!--Connect Section End-->
+  I'm currently pursuing Computer Science from [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website"). <br/><br/>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 🤩 &emsp; I'm down into projects and collaborations.  <br>
+
+ 
+</p>
+
 <!--Intro Section End-->
 
 <!--Skills Section Start-->
