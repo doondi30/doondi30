@@ -45,7 +45,7 @@
  
   <img align="right" alt="coding" src="https://res.cloudinary.com/djh5qkdfk/image/upload/v1732792351/Untitled_design_1_1_lvgsr8.gif" style="width:200px; height:auto;">
 
-  I'm currently pursuing Computer Science from [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website"). <br/><br/>
+&emsp; I'm currently pursuing Computer Science from [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website"). <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  🤩 &emsp; I'm down into projects and collaborations.  <br>
