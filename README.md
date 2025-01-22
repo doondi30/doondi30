@@ -103,7 +103,7 @@
 
 <!-- Adding Github Stats and Streak Stats -->
 
-| <img src="https://github-readme-stats.vercel.app/api?username=doondigangadhar30&theme=nightowl"> | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=doondigangadhar30&theme=nightowl" alt="GitHub Streak" /></a> |
+| <img src="https://github-readme-stats.vercel.app/api?username=doondigangadhar30&theme=nightowl"> | <img src="https://github-readme-streak-stats.herokuapp.com?user=doondigangadhar30&theme=nightowl" alt="GitHub Streak" /> |
 | --- | ---- |
 
 <!-- Adding Readme Stats and Profile Summary -->
