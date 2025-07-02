@@ -1,5 +1,5 @@
-<a href="https://komarev.com/ghpvc/?username=doondigangadhar30">
-  <img align="right" src="https://komarev.com/ghpvc/?username=doondigangadhar30&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=doondi30">
+  <img align="right" src="https://komarev.com/ghpvc/?username=doondi30&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -30,7 +30,7 @@
  </a>
  
   <!-- Gmail Link -->
- <a href="mailto:doondigangadhar30@gmail.com" target="_blank">
+ <a href="mailto:doondi30@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
@@ -56,22 +56,22 @@
 <!--Intro Section End-->
 
 <!--Skills Section Start-->
-<a href="https://github.com/doondigangadhar30">
+<a href="https://github.com/doondi30">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
 <h3 align="center">
- <a href="https://github.com/doondigangadhar30">
+ <a href="https://github.com/doondi30">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a>
  
- <a href="https://github.com/doondigangadhar30">
+ <a href="https://github.com/doondi30">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
     </a>
   【SKIᒪᒪS】
 </h3>
 
-<a href="https://github.com/doondigangadhar30">
+<a href="https://github.com/doondi30">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
@@ -82,28 +82,28 @@
  <img src="README/techstack.svg" alt = "My tech Stack">
 
 <!--Stats Section Start-->
-<a href="https://github.com/doondigangadhar30">
+<a href="https://github.com/doondi30">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
 
 <h3 align="center">
- <a href="https://github.com/doondigangadhar30">
+ <a href="https://github.com/doondi30">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a>
-  <a href="https://github.com/doondigangadhar30">
+  <a href="https://github.com/doondi30">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a> 
  【STATS】 
 </h3>
 
-<a href="https://github.com/doondigangadhar30">
+<a href="https://github.com/doondi30">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
 <!-- Adding Github Stats and Streak Stats -->
 
-| <img src="https://github-readme-stats.vercel.app/api?username=doondigangadhar30&theme=nightowl"> | <img src="https://github-readme-streak-stats.herokuapp.com?user=doondigangadhar30&theme=nightowl" alt="GitHub Streak" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=doondi30&theme=nightowl"> | <img src="https://github-readme-streak-stats.herokuapp.com?user=doondi30&theme=nightowl" alt="GitHub Streak" /> |
 | --- | ---- |
 
 <!-- Adding Readme Stats and Profile Summary -->
@@ -113,38 +113,38 @@
 <!--Stats Section End-->
 
 <!--Contributions Section Start -->
-<a href="https://github.com/doondigangadhar30">
+<a href="https://github.com/doondi30">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
 <h3 align="center">
- <a href="https://github.com/doondigangadhar30">
+ <a href="https://github.com/doondi30">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a>
  
- <a href="https://github.com/doondigangadhar30">
+ <a href="https://github.com/doondi30">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a>
 【﻿CONTRIBUTIONS】
 </h3>
-<a href="https://github.com/doondigangadhar30">
+<a href="https://github.com/doondi30">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
 <table width="100%" align="center">
 <tr>
-<td><p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=doondigangadhar30&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  /></p>
+<td><p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=doondi30&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  /></p>
 </td>
 </tr>
 </table>
 
 ## 🐱‍💻 HOLOPIN BADGES:
 
-[![@doondigangadhar30's Holopin board](https://holopin.me/doondigangadhar30) ](https://holopin.io/@doondigangadhar30) 
+[![@doondi30's Holopin board](https://holopin.me/doondi30) ](https://holopin.io/@doondi30) 
 
 <!--Gif Section-->
 
-<a href="https://github.com/doondigangadhar30/ApexPlanetTask5">
+<a href="https://github.com/doondi30/ApexPlanetTask5">
    <img alt="github-snake" src="README/CopyofgifB1-ezgif.com-crop.gif" title = "Click here to visit Duck Hunt Game Repo" />
 </a>
 
@@ -155,10 +155,10 @@
 ### sʜᴏᴡ sᴏᴍᴇ 💙 ʙʏ sᴛᴀʀʀɪɴɢ ⭐ sᴏᴍᴇ ᴏғ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs!
 <div>
   <p align="center">
-  <a href="https://github.com/doondigangadhar30"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Happy%20Coding❤️;Take%20A%20Look%20at%20my%20Repo's%20⭐👇;Follow..;Your%20Dreams%20😉;&font=wildword&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
+  <a href="https://github.com/doondi30"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Happy%20Coding❤️;Take%20A%20Look%20at%20my%20Repo's%20⭐👇;Follow..;Your%20Dreams%20😉;&font=wildword&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
 </p>
 
-<a href="https://github.com/doondigangadhar30">
+<a href="https://github.com/doondi30">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 </div>
