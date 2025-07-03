@@ -140,7 +140,7 @@
 
 ## 🐱‍💻 HOLOPIN BADGES:
 
-[![@doondi30's Holopin board](https://holopin.me/doondi30) ](https://holopin.io/@doondi30) 
+[![@doondi30's Holopin board](https://holopin.me/doondigangadhar30) ](https://holopin.io/@doondigangadhar30) 
 
 <!--Gif Section-->
 
